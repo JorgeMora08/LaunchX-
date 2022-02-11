@@ -1,2 +1,2 @@
 # LaunchX-
-Primera parte del Programa de LaunchX
+Primera parte del Programa LaunchX
